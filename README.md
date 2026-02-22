@@ -3,7 +3,7 @@
 Predicts CRISPR Cas9 cleavage efficiency from a 30-nucleotide sequence.
 
 ## Live Demo
-[Click this link to try it](https://huggingface.co/spaces/birkirorri/grna-efficiency-predictor) (still WIP)
+[Click this link to try it](https://huggingface.co/spaces/borri21/grna-efficiency-predictor) (still WIP)
 
 ## Stack
 - PyTorch CNN
